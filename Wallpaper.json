@@ -1,11 +1,8 @@
 {
- [
+  "wallpapers": [
     {
-      "url": "https://github.com/xoasu/Wallpapers/blob/main/p.jpg",
+      "url": "https://raw.githubusercontent.com/xoasu/Wallpapers/main/p.jpg",
       "name": "p"
-    },
-    
-  
-    
+    }
   ]
 }
